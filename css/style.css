@@ -1,0 +1,19 @@
+/*
+Theme Name: 韵雅文化
+Theme URI: ##
+Author: sinon
+Author URI: www.xiaoneko.site
+Description: 韵雅文化发展研究院欢迎您
+Version: V1.0
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+table{border-collapse: collapse;}
+
+.inner_warpper{width:1000px;}
+#header{width:1000px;height:270px;}
+#header_table{width:100%;height:200px;}
+.header_icon_td{width:17.5%;height:100%;}
+.header_img_td{width:75%;height:100%;}
+.header_right_td{width:17.5%;height:100%;}
+#header_table2{]width:1000px;height:70px;}
